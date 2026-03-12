@@ -1,0 +1,13 @@
+
+    body{color: white;font-size: 15px;}
+    h1 {color: red;}
+    h2 {color: blueviolet;}
+    body{background-color: black;}
+    h3{color: crimson;}
+    p{color:whitesmoke;}
+    body{
+        margin: 0;
+        padding: 13%;
+        
+    }
+    body{ font-family: "Orbitron", sans-serif;}
